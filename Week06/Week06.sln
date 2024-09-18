@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoologicalApplication", "ZoologicalApplication\ZoologicalApplication.csproj", "{96EB1E1C-AB06-4756-B671-FC13C3D889EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleManagementSystemProject", "VehicleManagementSystemProject\VehicleManagementSystemProject.csproj", "{4B189D86-2D09-452F-9325-B6B67415EE41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementSystemProject", "EmployeeManagementSystemProject\EmployeeManagementSystemProject.csproj", "{6E2DAC77-3752-4939-9397-2DE00A41B4B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96EB1E1C-AB06-4756-B671-FC13C3D889EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EB1E1C-AB06-4756-B671-FC13C3D889EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EB1E1C-AB06-4756-B671-FC13C3D889EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EB1E1C-AB06-4756-B671-FC13C3D889EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B189D86-2D09-452F-9325-B6B67415EE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B189D86-2D09-452F-9325-B6B67415EE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B189D86-2D09-452F-9325-B6B67415EE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B189D86-2D09-452F-9325-B6B67415EE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2DAC77-3752-4939-9397-2DE00A41B4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2DAC77-3752-4939-9397-2DE00A41B4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2DAC77-3752-4939-9397-2DE00A41B4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2DAC77-3752-4939-9397-2DE00A41B4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
