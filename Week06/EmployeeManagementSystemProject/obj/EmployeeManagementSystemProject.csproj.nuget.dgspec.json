@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/EmployeeManagementSystemProject.csproj": {}
+    "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EmployeeManagementSystemProject/EmployeeManagementSystemProject.csproj": {}
   },
   "projects": {
-    "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/EmployeeManagementSystemProject.csproj": {
+    "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EmployeeManagementSystemProject/EmployeeManagementSystemProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/EmployeeManagementSystemProject.csproj",
+        "projectUniqueName": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EmployeeManagementSystemProject/EmployeeManagementSystemProject.csproj",
         "projectName": "EmployeeManagementSystemProject",
-        "projectPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/EmployeeManagementSystemProject.csproj",
+        "projectPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EmployeeManagementSystemProject/EmployeeManagementSystemProject.csproj",
         "packagesPath": "/Users/enescanaydemir/.nuget/packages/",
-        "outputPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/EmployeeManagementSystemProject/obj/",
+        "outputPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/EmployeeManagementSystemProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/enescanaydemir/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/ZoologicalApplication.csproj": {}
+    "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/ZoologicalApplication/ZoologicalApplication.csproj": {}
   },
   "projects": {
-    "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/ZoologicalApplication.csproj": {
+    "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/ZoologicalApplication/ZoologicalApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/ZoologicalApplication.csproj",
+        "projectUniqueName": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/ZoologicalApplication/ZoologicalApplication.csproj",
         "projectName": "ZoologicalApplication",
-        "projectPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/ZoologicalApplication.csproj",
+        "projectPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/ZoologicalApplication/ZoologicalApplication.csproj",
         "packagesPath": "/Users/enescanaydemir/.nuget/packages/",
-        "outputPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/ZoologicalApplication/obj/",
+        "outputPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/ZoologicalApplication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/enescanaydemir/.nuget/NuGet/NuGet.Config"

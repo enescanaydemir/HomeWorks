@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/VehicleManagementSystemProject.csproj",
+      "projectUniqueName": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/VehicleManagementSystemProject/VehicleManagementSystemProject.csproj",
       "projectName": "VehicleManagementSystemProject",
-      "projectPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/VehicleManagementSystemProject.csproj",
+      "projectPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/VehicleManagementSystemProject/VehicleManagementSystemProject.csproj",
       "packagesPath": "/Users/enescanaydemir/.nuget/packages/",
-      "outputPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/VehicleManagementSystemProject/obj/",
+      "outputPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/VehicleManagementSystemProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/enescanaydemir/.nuget/NuGet/NuGet.Config"

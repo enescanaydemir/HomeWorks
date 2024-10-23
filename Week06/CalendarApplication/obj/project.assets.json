@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/CalendarApplication.csproj",
+      "projectUniqueName": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/CalendarApplication/CalendarApplication.csproj",
       "projectName": "CalendarApplication",
-      "projectPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/CalendarApplication.csproj",
+      "projectPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/CalendarApplication/CalendarApplication.csproj",
       "packagesPath": "/Users/enescanaydemir/.nuget/packages/",
-      "outputPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/00-HomeWorks/Week06/CalendarApplication/obj/",
+      "outputPath": "/Users/enescanaydemir/dev/projects/10-BE-TEMEL-YY/HomeWorks/Week06/CalendarApplication/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/enescanaydemir/.nuget/NuGet/NuGet.Config"
